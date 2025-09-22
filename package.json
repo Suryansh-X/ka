@@ -1,0 +1,16 @@
+{
+  "name": "ka-divine-3d",
+  "version": "1.0.0",
+  "private": true,
+  "description": "3D animated Hindu divine scene with glowing effects and autoplay BGM.",
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "@react-three/fiber": "^8.13.7",
+    "three": "^0.154.0"
+  },
+  "scripts": {
+    "start": "npx serve public"
+  }
+}
